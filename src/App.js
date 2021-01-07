@@ -21,7 +21,7 @@ const App=()=> {
       <Route exact path="/service" component={Service}/>
       <Route exact path="/contact" component={Contact}/>
       <Route exact path="/about" component={About}/>
-      <Redirect/>
+      <Redirect to='/'/>
     </Switch>
     
     <Footer/>
