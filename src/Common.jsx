@@ -5,8 +5,6 @@ import web from '../src/images/on3.png';
 const Common=(props)=> {
   return (
     <>
-    
-    
       <section id="header" className="d-flex align-items-center" >
       <div className="container-fluid">
         <div className="row">
@@ -26,9 +24,7 @@ const Common=(props)=> {
               </div>
             </div>  
             <div className="col-lg-6 order-1 order-lg-2 header-img">
-              
-              <img src={props.imgsrc} height="400" width="400" className="img-fluid imgcore animated" alt="Common img"/>
-                 
+              <img src={props.imgsrc} height="400" width="400" className="img-fluid imgcore animated" alt="Common img"/>  
             </div>       
           </div>
           </div>
@@ -36,7 +32,6 @@ const Common=(props)=> {
       </div>
       </section>
     </>
-    
   );
 }
 

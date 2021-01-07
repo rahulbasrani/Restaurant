@@ -47,22 +47,6 @@ body {
 }
 
 
-
-
-
-
-/* .nav-link{
-  color:white;
-  padding: 1px;
-  background-color: #3498db;
-}
-
-.nav-link:hover{
-  color:#3498db;
-  padding: 1px;
-  background-color: white;
-} */
-
 .navbar-brand{
   font-weight: bold;
   font-size: 1.5rem!important;
@@ -125,11 +109,7 @@ body {
 .header-img{
   text-align:right;
 }
-/* .imgbck{
-  background:white;
-  opacity:0.7 ;
-  position:absolute;
-} */
+
 .imgcore{
   position:relative;
   opacity:1;

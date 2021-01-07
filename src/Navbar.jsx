@@ -31,9 +31,7 @@ const Navbar=()=>{
                         <li className="nav-item">
                         <NavLink activeClassName="menu_active" className="nav-link active linkcls" aria-current="page" to="/contact">Contact</NavLink>
                         </li>
-                        {/* <li className="nav-item">
-                        <NavLink className="nav-link" href="#">Link</a>
-                        </li> */}  
+                        
                     </ul>
                     
                     </div>
